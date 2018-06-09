@@ -1,0 +1,4 @@
+Programy do tworzenia muzyki: 
+- FLStudio
+- Ableton
+- Cubase
