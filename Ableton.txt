@@ -1,1 +1,3 @@
 cena - 149 euro
+Ableton Live is a software music sequencer and digital audio workstation for macOS and Windows. The latest major release of Live, Version 10, was released on February 6, 2018. In contrast to many other software sequencers, Live is designed to be an instrument for live performances as well as a tool for composing, recording, arranging, mixing, and mastering, as shown by Ableton's companion hardware product, Ableton Push. It is also used by DJs, as it offers a suite of controls for beatmatching, crossfading, and other effects used by turntablists, and was one of the first music applications to automatically beatmatch songs.
+
