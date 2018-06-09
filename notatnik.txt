@@ -1,4 +1,4 @@
 Programy do tworzenia muzyki: 
 - FLStudio
-- Ableton
+- Ableton - cena: 149 Euro
 - Cubase
